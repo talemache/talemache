@@ -6,6 +6,7 @@ and have learned a ton from the extremely talented people out there.
 ⚡ Fun fact: I used to live in Guam 🌴
 
 I also just started blogging. If you want to check it out, click [here](https://www.starvingdev.blog)
+
 Well that about does it, have a good one 👊
 <!--
 **talemache/talemache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
