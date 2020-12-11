@@ -1,6 +1,6 @@
 👋 I'm Ryan, recent CS graduate, current freelancer, 
 and future dev @ ________ (hopefully this blank is filled soon!). 
-I spend a lot of my time on github triaging open-source projects for fun
+I spend a lot of my time on github assisting open-source projects for fun
 and have learned a ton from the extremely talented people out there. 
 
 ⚡ Fun fact: I used to live in Guam 🌴
