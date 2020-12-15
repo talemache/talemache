@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+<p align="center"><strong> Powered By: </strong></p>
+<p align="center"><img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"></p>
