@@ -1,11 +1,6 @@
-👋 I'm Ryan, recent CS graduate, current freelancer, 
-and future dev @ ________ (hopefully this blank is filled soon!). 
-I spend a lot of my time on github assisting open-source projects for fun
-and have learned a ton from the extremely talented people out there. 
+👋 I'm Ryan, recent CS graduate, current freelancer.
 
 ⚡ Fun fact: I used to live in Guam 🌴
-
-I also just started blogging. If you want to check it out, click [here](https://www.starvingdev.blog)
 
 Well that about does it, have a good one 👊
 <!--
