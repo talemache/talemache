@@ -1,5 +1,5 @@
 👋 I'm Ryan, recent CS graduate, current freelancer.
-⚡ Fun fact: I used to live in Guam 🌴
+
 <!--
 **talemache/talemache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
